@@ -1,10 +1,5 @@
 Built Pathway at the CSUS 2026 Hackathon to solve a problem we all experienced: university information overload. With hundreds of clubs, programs, labs, and events scattered across different websites and platforms at the University of Calgary, it’s hard for students, especially first years, to know where to start, so Pathway brings extracurricular opportunities into one organized place and matches them to students based on the skills they have and the skills they want to develop. We built the app with Next.js, React, and TypeScript, used Supabase for authentication and database management, and implemented the matching logic in TypeScript to connect student profiles to relevant opportunities. The biggest challenges were integrating Supabase auth smoothly and wiring the recommendation logic into the frontend, and we’re proud we shipped a practical tool that helps students make clearer, goal aligned decisions during university. We will be expanding this project soon for other universitys and facuilty's.
 
-Commands to Run:
-1. Copy https key
-2. Git clone
-3. Select repository destination to CUCS2026
-4. Cd frontend
-5. Npm install
-6. Npm run dev
+Commands to Run: Copy https key, Git clone, Select repository destination to CUCS2026, Cd frontend, Npm install, and Npm run dev
+
 
